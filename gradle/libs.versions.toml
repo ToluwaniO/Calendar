@@ -2,7 +2,7 @@
 agp = "8.5.2"
 kotlin = "2.0.20"
 composeAndroid = "1.7.2"
-composeMultiplatform = "1.7.0-beta02"
+composeMultiplatform = "1.7.0-dev1686"
 espresso = "3.6.1"
 junit5 = "5.11.0"
 kotlinxSerialization = "1.7.1"
